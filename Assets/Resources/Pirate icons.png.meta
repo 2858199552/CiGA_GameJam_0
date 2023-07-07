@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 01db839f8d88c904394e8d2c189f8378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5102729934254433611
+    second: Pirate icons_0
+  - first:
+      213: -3547685791787512163
+    second: Pirate icons_1
+  - first:
+      213: 9028940802886545673
+    second: Pirate icons_2
+  - first:
+      213: -6142562626727603847
+    second: Pirate icons_3
+  - first:
+      213: 7774432754266671868
+    second: Pirate icons_4
+  - first:
+      213: -2090119376379415016
+    second: Pirate icons_5
+  - first:
+      213: 2122882364749191177
+    second: Pirate icons_6
+  - first:
+      213: -589815817775912666
+    second: Pirate icons_7
+  - first:
+      213: -8140972640560548625
+    second: Pirate icons_8
+  - first:
+      213: 1530298047534280886
+    second: Pirate icons_9
+  - first:
+      213: 3283710463154925434
+    second: Pirate icons_10
+  - first:
+      213: 2579142907524146468
+    second: Pirate icons_11
+  - first:
+      213: -9128387258180077786
+    second: Pirate icons_12
+  - first:
+      213: 8044277724154606103
+    second: Pirate icons_13
+  - first:
+      213: -2395911265915331042
+    second: Pirate icons_14
+  - first:
+      213: -6345653312146090171
+    second: Pirate icons_15
+  - first:
+      213: -6415049820547550854
+    second: Pirate icons_16
+  - first:
+      213: -6481243762450534519
+    second: Pirate icons_17
+  - first:
+      213: 8204722039906966090
+    second: Pirate icons_18
+  - first:
+      213: 4514514014214964336
+    second: Pirate icons_19
+  - first:
+      213: 4132382002407484418
+    second: Pirate icons_20
+  - first:
+      213: 8602547183036003498
+    second: Pirate icons_21
+  - first:
+      213: -8439719056795581143
+    second: Pirate icons_22
+  - first:
+      213: 6188815009657977279
+    second: Pirate icons_23
+  - first:
+      213: 3592297701109224023
+    second: Pirate icons_24
+  - first:
+      213: 2496505165334562070
+    second: Pirate icons_25
+  - first:
+      213: 7757571785650473502
+    second: Pirate icons_26
+  - first:
+      213: -5410598812499467681
+    second: Pirate icons_27
+  - first:
+      213: 405584811278499433
+    second: Pirate icons_28
+  - first:
+      213: -1269616842312855678
+    second: Pirate icons_29
+  - first:
+      213: -437929058033504260
+    second: Pirate icons_30
+  - first:
+      213: 5143327270888568576
+    second: Pirate icons_31
+  - first:
+      213: -6590959096177451342
+    second: Pirate icons_32
+  - first:
+      213: 4700718030486751959
+    second: Pirate icons_33
+  - first:
+      213: -4318395093543051147
+    second: Pirate icons_34
+  - first:
+      213: 8475982149957500861
+    second: Pirate icons_35
+  - first:
+      213: 7885138000719539896
+    second: Pirate icons_36
+  - first:
+      213: 2300916323432908558
+    second: Pirate icons_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pirate icons_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 895
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba130409267f29b0800000000000000
+      internalID: -5102729934254433611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 895
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e0ecd919614cec0800000000000000
+      internalID: -3547685791787512163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1004
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9013516a2dd3d4d70800000000000000
+      internalID: 9028940802886545673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 895
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9719f4fe5db31caa0800000000000000
+      internalID: -6142562626727603847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 895
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0a38366554eb60800000000000000
+      internalID: 7774432754266671868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 895
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8167eb840876ef2e0800000000000000
+      internalID: -2090119376379415016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 735
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90811d2634ef57d10800000000000000
+      internalID: 2122882364749191177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 751
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6296f8283ad80d7f0800000000000000
+      internalID: -589815817775912666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 856
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f6312484750f80800000000000000
+      internalID: -8140972640560548625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 735
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b031c367f5bc3510800000000000000
+      internalID: 1530298047534280886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 735
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2595b445129d20800000000000000
+      internalID: 3283710463154925434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 742
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e1fb3fc4fac320800000000000000
+      internalID: 2579142907524146468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 591
+        width: 82
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62779f72724715180800000000000000
+      internalID: -9128387258180077786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 736
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b2de38f303af60800000000000000
+      internalID: 8044277724154606103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 736
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e92c1d56300ced0800000000000000
+      internalID: -2395911265915331042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 591
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54750cdeee5bfe7a0800000000000000
+      internalID: -6345653312146090171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 591
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7174d53d2a29f6a0800000000000000
+      internalID: -6415049820547550854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 716
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6b6c132ffd06a0800000000000000
+      internalID: -6481243762450534519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 716
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a197d89370dd170800000000000000
+      internalID: 8204722039906966090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 607
+        width: 130
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744ec6b396c6ae30800000000000000
+      internalID: 4514514014214964336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 684
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c27b1798b295930800000000000000
+      internalID: 4132382002407484418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 607
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f560b513626770800000000000000
+      internalID: 8602547183036003498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 684
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ca9fbb3810ea80800000000000000
+      internalID: -8439719056795581143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 671
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9f447267613e550800000000000000
+      internalID: 6188815009657977279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 671
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7525112f9b76ad130800000000000000
+      internalID: 3592297701109224023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 454
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c1b7883e55a220800000000000000
+      internalID: 2496505165334562070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 447
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a0a4b007e68ab60800000000000000
+      internalID: 7757571785650473502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 447
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52a1deeb01b9e4b0800000000000000
+      internalID: -5410598812499467681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 447
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7c8aac3de0a500800000000000000
+      internalID: 405584811278499433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_29
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 463
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fc619653a616ee0800000000000000
+      internalID: -1269616842312855678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_30
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 528
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff671b87d92ce9f0800000000000000
+      internalID: -437929058033504260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 447
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00774e007e4c06740800000000000000
+      internalID: 5143327270888568576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 296
+        width: 274
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be96375f953884a0800000000000000
+      internalID: -6590959096177451342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 319
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dacf6ca42e4c3140800000000000000
+      internalID: 4700718030486751959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 303
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a391da8af114c0800000000000000
+      internalID: -4318395093543051147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_35
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 303
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfb4c29bdcb0a570800000000000000
+      internalID: 8475982149957500861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_36
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 368
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be62d10c33ad6d60800000000000000
+      internalID: 7885138000719539896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate icons_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 296
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07cd14943f7eef10800000000000000
+      internalID: 2300916323432908558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
